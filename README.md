@@ -8,7 +8,7 @@ in this repository you will see an html css template for a cool designed e-comme
 
 ## :heavy_check_mark: Authors
 
--   created by Utkarsh Yadav from: [@vibracode](https://www.github.com/octokatherine)
+-   created by Utkarsh Yadav
 
 ## :heavy_check_mark: License
 
